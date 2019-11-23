@@ -22,5 +22,9 @@ public class Constants {
 	public String INDIVIDUAL;
 	@Value("${company}")
 	public String COMPANY;
+	
+	public String organization;
+	
+	
 
 }
